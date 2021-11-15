@@ -31,8 +31,11 @@
 <a href="https://twitter.com/Evander_Inacio" target="blank"><img align="center" src="https://raw.githubusercontent.com/EvanderInacio/EvanderInacio/55c6d0de3bb755efff5dd199a52d7e63fbe9f963/images/twitter.svg" alt="paulo-jc-mesquita" height="37" width="40" /></a>
 <a href="https://www.facebook.com/evandder.lopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/EvanderInacio/EvanderInacio/55c6d0de3bb755efff5dd199a52d7e63fbe9f963/images/facebook.svg" alt="paulo-jc-mesquita" height="40" width="40" /></a>
 
+<br><br>
 
+## ⚙️ &nbsp;GitHub Analytics
 
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=EvanderInacio&show_icons=true=anuraghazra&show_icons=true&theme=algolia" alt="evander stats"/> <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanderInacio&layout=compact&theme=algolia" alt="evander stats"/>
 
 
 
