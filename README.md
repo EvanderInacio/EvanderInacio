@@ -1,7 +1,8 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/EvanderInacio/8a5b15e766fb582e839f94cc036b3256/raw/db42146deb6aadf433645480485cc143b1f764f7/githubCard.svg"/>
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/EvanderInacio/8a5b15e766fb582e839f94cc036b3256/raw/db42146deb6aadf433645480485cc143b1f764f7/githubCard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Evander Inácio</h1>
 
-### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EvanderInacio&color=blue" alt="Profile views" /> </p>
 
 <!--
 **EvanderInacio/EvanderInacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
