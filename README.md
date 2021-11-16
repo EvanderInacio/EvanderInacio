@@ -1,6 +1,6 @@
 
 <a href="https://evanderinacio.github.io/cracha-nlw" target="blank"><img align="right" height="500em" src="https://raw.githubusercontent.com/gist/EvanderInacio/8a5b15e766fb582e839f94cc036b3256/raw/db42146deb6aadf433645480485cc143b1f764f7/githubCard.svg"/></a>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Evander Inácio</h1>
+<h1 align="left">**Hello, <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30px"> I'm Evander Inácio<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EvanderInacio&color=blue" alt="Profile views" /> </p>
 
@@ -27,9 +27,9 @@
 
 ## 📱 &nbsp;Social Links
 
-<a href="https://www.linkedin.com/in/evander-inacio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo-jc-mesquita" height="30" width="40" /></a>
-<a href="https://twitter.com/Evander_Inacio" target="blank"><img align="center" src="https://raw.githubusercontent.com/EvanderInacio/EvanderInacio/55c6d0de3bb755efff5dd199a52d7e63fbe9f963/images/twitter.svg" alt="paulo-jc-mesquita" height="37" width="40" /></a>
-<a href="https://www.facebook.com/evandder.lopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/EvanderInacio/EvanderInacio/55c6d0de3bb755efff5dd199a52d7e63fbe9f963/images/facebook.svg" alt="paulo-jc-mesquita" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/evander-inacio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked" height="30" width="40" /></a>
+<a href="https://twitter.com/Evander_Inacio" target="blank"><img align="center" src="https://raw.githubusercontent.com/EvanderInacio/EvanderInacio/55c6d0de3bb755efff5dd199a52d7e63fbe9f963/images/twitter.svg" alt="twitter" height="37" width="40" /></a>
+<a href="https://www.facebook.com/evandder.lopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/EvanderInacio/EvanderInacio/55c6d0de3bb755efff5dd199a52d7e63fbe9f963/images/facebook.svg" alt="facebook" height="40" width="40" /></a>
 
 <br>
 
