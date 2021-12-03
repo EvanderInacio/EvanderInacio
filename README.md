@@ -6,7 +6,7 @@
 
 <br>
 
-## 🧑🏻 &nbsp;About
+ ## ⚡ &nbsp;About
 - 🔥 Studying Web Developer in Rocketseat
  
 - 📚 I’m currently learning **HTML, CSS, JavaScript, Git**
@@ -37,7 +37,7 @@
 
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=EvanderInacio&show_icons=true=anuraghazra&show_icons=true&theme=algolia" alt="evander stats"/> <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanderInacio&layout=compact&theme=algolia" alt="evander stats"/>
 
-## 😜
+##
 <img src="https://raw.githubusercontent.com/EvanderInacio/EvanderInacio/31392b82f8d283024205fa00630967af29dad767/images/github.svg" alt="html5"/>
 
 
