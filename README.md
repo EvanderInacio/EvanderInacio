@@ -35,7 +35,7 @@
 
 <br>
 
-## &nbsp;Minhas Estatísticas <img src="images/gato_astronauta.gif" width="40" align="left">
+## &nbsp;Minhas Estatísticas <img src="images/gato_astronauta.gif" width="50" align="left">
 
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=EvanderInacio&show_icons=true=anuraghazra&show_icons=true&theme=algolia" alt="evander stats"/> <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanderInacio&layout=compact&theme=algolia" alt="evander stats"/>
 
