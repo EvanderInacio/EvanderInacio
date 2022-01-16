@@ -1,5 +1,5 @@
 
-<a href="https://evanderinacio.github.io/cracha-nlw" target="blank"><img align="right" height="500em" src="https://raw.githubusercontent.com/gist/EvanderInacio/8a5b15e766fb582e839f94cc036b3256/raw/db42146deb6aadf433645480485cc143b1f764f7/githubCard.svg"/></a>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="450px" width="450px" align="right" alt="Computador">
 <h1 align="left">Olá, <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30px"> eu sou Evander Inácio <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EvanderInacio&color=blue" alt="Profile views" /> </p>
