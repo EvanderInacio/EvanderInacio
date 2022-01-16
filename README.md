@@ -13,7 +13,7 @@
  
 - 🚀 Estou trabalhando para melhorar minhas habilidades como desenvolvedor.
  
-- 💼 Todos os meus projetos estão disponíveis no meu **[ repositories](https://github.com/EvanderInacio?tab=repositories)**
+- 💼 Todos os meus projetos estão disponíveis no meu **[ repositório](https://github.com/EvanderInacio?tab=repositories)**
 
 - 👨‍💻 Meu portfolio **[ Evander Inácio](https://evanderinacio.netlify.app)**
  
