@@ -1,12 +1,12 @@
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
+<img src="images/computer-illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
 <h1 align="left">Olá, <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30px"> eu sou Evander Inácio <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EvanderInacio&color=blue" alt="Profile views" /> </p>
 
 <br>
 
- ## ⚡ &nbsp;Sobre mim
+ ## &nbsp;Sobre mim <img src="images/oculos.gif" width="35" align="left">
 - 👨‍🎓 Sou formado em Analise e desenvolvimento de sistemas.
  
 - 📚 Atualmente estou estudando **HTML, CSS, JavaScript, Git**
