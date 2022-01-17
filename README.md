@@ -8,7 +8,7 @@
 
  ## &nbsp;Sobre mim <img src="images/oculos.gif" width="35" align="left">
  
- - 👨‍💻 Meu portfolio **[ Evander Inácio](https://evanderinacio.netlify.app)**
+ - 👨‍💻 Meu portfolio **[ evanderinacio.com.br](https://www.evanderinacio.com.br)**
  
 - 👨‍🎓 Sou formado em Análise e desenvolvimento de sistemas.
  
