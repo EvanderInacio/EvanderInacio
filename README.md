@@ -7,6 +7,9 @@
 <br>
 
  ## &nbsp;Sobre mim <img src="images/oculos.gif" width="35" align="left">
+ 
+ - 👨‍💻 Meu portfolio **[ Evander Inácio](https://evanderinacio.netlify.app)**
+ 
 - 👨‍🎓 Sou formado em Análise e desenvolvimento de sistemas.
  
 - 📚 Atualmente estou estudando **HTML, CSS, JavaScript, Git.**
@@ -14,8 +17,6 @@
 - 🚀 Estou trabalhando para melhorar minhas habilidades como desenvolvedor.
  
 - 💼 Todos os meus projetos estão disponíveis no meu **[ repositório](https://github.com/EvanderInacio?tab=repositories)**
-
-- 👨‍💻 Meu portfolio **[ Evander Inácio](https://evanderinacio.netlify.app)**
  
 - 📫 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.  **evander.20112@hotmail.com**
 
