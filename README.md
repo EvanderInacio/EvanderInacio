@@ -18,7 +18,7 @@
  
 - 💼 Todos os meus projetos estão disponíveis no meu **[ repositório](https://github.com/EvanderInacio?tab=repositories)**
  
-- 📫 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.  **evander.20112@hotmail.com**
+- 📫 Se você deseja enviar uma mensagem.  **evander.20112@hotmail.com**
 
 <br>
 
