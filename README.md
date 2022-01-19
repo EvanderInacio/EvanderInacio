@@ -9,12 +9,10 @@
  ## &nbsp;Sobre mim <img src="images/oculos.gif" width="35" align="left">
  
  - 👨‍💻 Meu portfolio **[ evanderinacio.com.br](https://www.evanderinacio.com.br)**
+
+- 💼 Todos os meus projetos estão nesse **[ repositório](https://github.com/EvanderInacio/Projetos)**
  
 - 👨‍🎓 Sou formado em Análise e desenvolvimento de sistemas.
- 
-- 📚 Atualmente estou estudando **HTML, CSS, JavaScript, Git.**
-
-- 💼 Todos os meus projetos incluindo os que não estão no portfolio estão disponíveis nesse **[ repositório](https://github.com/EvanderInacio/Projetos)**
  
 - 🚀 Estou trabalhando para melhorar minhas habilidades como desenvolvedor.
  
@@ -24,8 +22,21 @@
 
 ## 🛠 &nbsp;Tecnologias e Ferramentas <img src="images/gato.gif" width="" align="right">
 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/> </a> <img src="https://raw.githubusercontent.com/EvanderInacio/EvanderInacio/26ff044a2fc4ca9f6153eba5547923f05e9faf6b/images/github.svg" alt="github" width="40" height="33"/> <img src="https://raw.githubusercontent.com/EvanderInacio/EvanderInacio/453eac6a7b80a0a180c970db4b51e3df466da88d/images/git.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/EvanderInacio/EvanderInacio/e25d715e6c3aeb692fb8b12dab7c7cd87b51b677/images/visual-studio-code.svg" alt="vs-code" width="40" height="35"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"  width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/> </a> <img src="https://raw.githubusercontent.com/EvanderInacio/EvanderInacio/26ff044a2fc4ca9f6153eba5547923f05e9faf6b/images/github.svg" alt="github" width="40" height="33"/> <img src="https://raw.githubusercontent.com/EvanderInacio/EvanderInacio/453eac6a7b80a0a180c970db4b51e3df466da88d/images/git.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/EvanderInacio/EvanderInacio/e25d715e6c3aeb692fb8b12dab7c7cd87b51b677/images/visual-studio-code.svg" alt="vs-code" width="40" height="35"/>
  
+<br>
+
+## 📚 &nbsp;Tecnologias que pretendo estudar
+
+<img align="center" title="ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </a>
+ <img align="center" title="React Native" height="37" width="30" src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png"> </a>
+ <img align="center" title="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> </a>
+ <img align="center" title="BootStrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> </a>
+ <img align="center" title="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </a>
+ <img align="center" title="SQLServer" alt="Jeffy-SQLServer" height="40" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"> </a>
+ <img align="center" title="MySQL" alt="Jeffy-MySql" height="35" width="35" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">  
+
+
 <br>
 
 ## 📱 &nbsp;Redes Sociais
