@@ -13,10 +13,10 @@
 - 👨‍🎓 Sou formado em Análise e desenvolvimento de sistemas.
  
 - 📚 Atualmente estou estudando **HTML, CSS, JavaScript, Git.**
+
+- 💼 Todos os meus projetos incluindo os que não estão no portfolio estão disponíveis nesse **[ repositório](https://github.com/EvanderInacio/Projetos)**
  
 - 🚀 Estou trabalhando para melhorar minhas habilidades como desenvolvedor.
- 
-- 💼 Todos os meus projetos estão disponíveis no meu **[ repositório](https://github.com/EvanderInacio?tab=repositories)**
  
 - 📫 Se você deseja enviar uma mensagem.  **evander.20112@hotmail.com**
 
