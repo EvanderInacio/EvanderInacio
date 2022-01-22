@@ -29,12 +29,11 @@
 ## 📚 &nbsp;Tecnologias que pretendo estudar
 
 <img align="center" title="ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </a>
- <img align="center" title="React Native" height="37" width="30" src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png"> </a>
- <img align="center" title="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> </a>
+ <img align="center" title="React Native" height="37" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"> </a>
  <img align="center" title="BootStrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> </a>
  <img align="center" title="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </a>
- <img align="center" title="SQLServer" alt="Jeffy-SQLServer" height="40" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"> </a>
- <img align="center" title="MySQL" alt="Jeffy-MySql" height="35" width="35" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">  
+ <img align="center" title="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> </a>
+ <img align="center" title="MySQL" alt="" height="35" width="35" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">  
 
 
 <br>
