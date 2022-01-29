@@ -8,7 +8,7 @@
 
  ## &nbsp;Sobre mim <img src="images/oculos.gif" width="35" align="left">
  
- - 👨‍💻 Meu portfolio **[ evanderinacio.com.br](https://www.evanderinacio.com.br)**
+ - 👨‍💻 Meu portfolio **[ evanderinacio.com](https://www.evanderinacio.com)**
 
 - 💼 Todos os meus projetos estão nesse **[ repositório](https://github.com/EvanderInacio/Projetos)**
  
