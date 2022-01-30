@@ -30,6 +30,7 @@
 
 ## 📚 &nbsp;Tecnologias que pretendo estudar
 
+ <img align="center" title="TypeScript" height="37" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">  </a>
  <img align="center" title="React Native" height="37" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"> </a>
  <img align="center" title="BootStrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> </a>
  <img align="center" title="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> </a>
