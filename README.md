@@ -32,7 +32,6 @@
 
  <img align="center" title="TypeScript" height="37" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">  </a>
  <img align="center" alt="Sass" height="37" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </a>
- <img align="center" title="BootStrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> </a>
  <img align="center" title="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> </a>
  <img align="center" title="MySQL" alt="" height="35" width="35" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">  
 
