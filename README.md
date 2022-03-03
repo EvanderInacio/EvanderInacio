@@ -24,15 +24,7 @@
  <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> </a> 
  <img alt="ReactJs" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </a> 
  <img src="https://raw.githubusercontent.com/EvanderInacio/EvanderInacio/453eac6a7b80a0a180c970db4b51e3df466da88d/images/git.svg" alt="git" width="38" height="38"/>
- 
-<br>
-
-## 📚 &nbsp;Tecnologias que pretendo estudar
-
- <img align="center" title="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></a>
- <img align="center" alt="Sass" height="37" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </a>
- <img align="center" title="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
- 
+  
 <br>
 
 ## 📱 &nbsp;Redes Sociais
