@@ -12,13 +12,13 @@
  
 - 👨‍🎓 Sou formado em Análise e desenvolvimento de sistemas.
 
-- 💼 Todos os projetos estão nesse **[ repositório](https://github.com/EvanderInacio/Projetos)**
+- 💼 Todos os projetos desenvolvidos estão nesse **[ repositório](https://github.com/EvanderInacio/Projetos)**.
  
 - 📫 Se você deseja enviar uma mensagem.  **evander.20112@hotmail.com**
 
 <br>
 
-## 🚀 &nbsp;Tecnologias e Ferramentas <img src="images/gato.gif" width="400" align="right">
+## 🚀 &nbsp;Tecnologias e Ferramentas <img src="images/gato.gif" width="350" align="right">
 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"  width="33" height="33"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/> </a>
  <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> </a> 
@@ -33,9 +33,6 @@
  <img align="center" alt="Sass" height="37" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </a>
  <img align="center" title="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
  
- 
-
-
 <br>
 
 ## 📱 &nbsp;Redes Sociais
