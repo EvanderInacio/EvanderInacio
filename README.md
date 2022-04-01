@@ -11,8 +11,6 @@
 - 👨‍💻 Meu portfólio **[ evanderinacio.com](https://www.evanderinacio.com)**
  
 - 👨‍🎓 Sou formado em Análise e desenvolvimento de sistemas.
-
-- 💼 Todos os projetos desenvolvidos estão nesse **[ repositório](https://github.com/EvanderInacio/Projetos)**.
  
 - 📫 Se você deseja enviar uma mensagem.  **evander.20112@hotmail.com**
 
