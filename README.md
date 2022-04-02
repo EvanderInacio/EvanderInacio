@@ -11,19 +11,16 @@
 - 👨‍💻 Meu portfólio **[ evanderinacio.com](https://www.evanderinacio.com)**
  
 - 👨‍🎓 Sou formado em Análise e desenvolvimento de sistemas.
-- 
-- 🌱Estudando HTML,CSS, JAVASCRIPT
--
+
+- 🌱Estudando HTML, CSS, JAVASCRIPT
+
 - 📫 Se você deseja enviar uma mensagem.  **evander.20112@hotmail.com**
 
 <br>
 
 ## 🚀 &nbsp;Tecnologias e Ferramentas <img src="images/gato.gif" width="350" align="right">
 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"  width="33" height="33"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/> </a>
- <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> </a> 
- <img alt="ReactJs" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </a> 
- <img src="https://raw.githubusercontent.com/EvanderInacio/EvanderInacio/453eac6a7b80a0a180c970db4b51e3df466da88d/images/git.svg" alt="git" width="38" height="38"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"  width="33" height="33"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/> 
   
 <br>
 
