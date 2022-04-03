@@ -12,7 +12,7 @@
  
 - 👨‍🎓 Sou formado em Análise e desenvolvimento de sistemas.
 
-- 🌱Estudando HTML, CSS, JAVASCRIPT
+- 🌱 Estudando HTML, CSS, JAVASCRIPT
 
 - 📫 Se você deseja enviar uma mensagem.  **evander.20112@hotmail.com**
 
