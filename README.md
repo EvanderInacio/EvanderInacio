@@ -21,9 +21,13 @@
 ## 🛠 &nbsp;Tecnologias
 
 <p align="left">
+ 
  <img src="https://img.shields.io/badge/-HTML-000dff?style=for-the-badge&logo=HTML5&logoColor=FFFFFF" alt="html5"/> 
+ 
  <img src="https://img.shields.io/badge/-CSS-000dff?style=for-the-badge&logo=CSS3&logoColor=FFFFFF" alt="css3"/>
- <img src="https://img.shields.io/badge/-JAVASCRIPT-000dff?style=for-the-badge&logo=JAVASCRIPT&logoColor=FFFFFF" alt="javascript"/> 
+ 
+ <img src="https://img.shields.io/badge/-JavaScript-000dff?style=for-the-badge&logo=JAVASCRIPT&logoColor=FFFFFF" alt="javascript"/> 
+ 
 </p>
   
 <br>
