@@ -6,11 +6,11 @@
 
 <br>
 
- ## &nbsp;Sobre mim <img src="images/oculos.gif" width="35" align="left">
+ ## &nbsp; <img src="images/oculos.gif " width="35" align="left">Sobre mim
  
 - 👨‍💻 Meu portfólio **[ evanderinacio.com](https://www.evanderinacio.com)**
  
-- 👨‍🎓 Sou formado em Análise e desenvolvimento de sistemas.
+- 👨‍🎓 Formado em Análise e desenvolvimento de sistemas.
 
 - 🚀 Conhecimento: HTML, CSS, JAVASCRIPT
 
@@ -22,11 +22,11 @@
 
 <p align="left">
  
- <img src="https://img.shields.io/badge/-HTML-000dff?style=for-the-badge&logo=HTML5&logoColor=FFFFFF" alt="html5"/> 
+ <img src="https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5" alt="html5"/> 
  
- <img src="https://img.shields.io/badge/-CSS-000dff?style=for-the-badge&logo=CSS3&logoColor=FFFFFF" alt="css3"/>
+ <img src="https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="css3"/>
  
- <img src="https://img.shields.io/badge/-JavaScript-000dff?style=for-the-badge&logo=JAVASCRIPT&logoColor=FFFFFF" alt="javascript"/> 
+ <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JAVASCRIPT" alt="javascript"/> 
  
 </p>
   
