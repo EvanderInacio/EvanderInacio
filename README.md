@@ -20,17 +20,33 @@
 
 ## 🛠 &nbsp;Tecnologias
 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"  width="33" height="33"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/> 
+<p align="left">
+ <img src="https://img.shields.io/badge/-HTML-000dff?style=for-the-badge&logo=HTML5&logoColor=FFFFFF" alt="html5"/> 
+ <img src="https://img.shields.io/badge/-CSS-000dff?style=for-the-badge&logo=CSS3&logoColor=FFFFFF" alt="css3"/>
+ <img src="https://img.shields.io/badge/-JAVASCRIPT-000dff?style=for-the-badge&logo=JAVASCRIPT&logoColor=FFFFFF" alt="javascript"/> 
+</p>
   
 <br>
 
 ## 📱 &nbsp;Redes Sociais
-<img src="https://img.shields.io/badge/-Linkedin-000dff?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/evander-inacio"/> <img src="https://img.shields.io/badge/-Facebook-000dff?style=for-the-badge&logo=Facebook&logoColor=FFFFFF&link=https://www.facebook.com/evandder.lopes"/> <img src="https://img.shields.io/badge/-Twitter-000dff?style=for-the-badge&logo=Twitter&logoColor=FFFFFF&link=https://twitter.com/Evander_Inacio"/> 
 
+<p align="left">
+ 
+ <a href="https://www.linkedin.com/in/evander-inacio" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-000dff?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/evander-inacio"/> 
+ </a>
+ 
+ <a href="https://www.facebook.com/evandder.lopes" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-000dff?style=for-the-badge&logo=Facebook&logoColor=FFFFFF&link=https://www.facebook.com/evandder.lopes"/> 
+ </a>
+ 
+ <a href="https://twitter.com/Evander_Inacio" alt="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-000dff?style=for-the-badge&logo=Twitter&logoColor=FFFFFF&link=https://twitter.com/Evander_Inacio"/> 
+ </a>
+
+ </p>
 
 <br>
-
------
 
 ## <img src="images/gato_astronauta.gif" width="50" height="50" align="10">  &nbsp;Minhas Estatísticas 
 
@@ -38,7 +54,7 @@
   
 <br>
 
-## <img src="images/gato.gif" width="200" align="right">
+## <img src="images/gato.gif" width="150" align="left">
 ![Snake animation](https://github.com/EvanderInacio/EvanderInacio/blob/output/github-contribution-grid-snake.svg)
 
 <br>
