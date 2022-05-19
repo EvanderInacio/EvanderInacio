@@ -6,7 +6,7 @@
 
 <br>
 
- ## &nbsp; <img src="images/oculos.gif " width="35" align="left">Sobre mim
+ ## &nbsp; <img src="images/oculos.gif " width="30" align="center"> &nbsp;Sobre mim
  
 - 👨‍💻 Meu portfólio **[ evanderinacio.com](https://www.evanderinacio.com)**
  
