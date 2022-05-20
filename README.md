@@ -58,13 +58,13 @@
   
 <br>
 
-## <img src="images/gato.gif" width="150" align="left">
+## <img src="images/gato.gif" width="150" align="center">
 ![Snake animation](https://github.com/EvanderInacio/EvanderInacio/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
 -----
 
-  <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/kennedybarros/">Evander Inácio</a> ☕</h3>
+  <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/evander-inacio/">Evander Inácio</a> ☕</h3>
 
 
