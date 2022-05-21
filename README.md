@@ -17,7 +17,7 @@
 
 <br>
 
-## 🛠 &nbsp;Languages and Tools
+## 🛠 &nbsp;Technologies
 
 <p align="left">
  
