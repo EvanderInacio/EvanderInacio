@@ -12,7 +12,7 @@
  
 - 👨‍🎓 Formado em Análise e desenvolvimento de sistemas.
 
-- 🚀 Conhecimento: HTML, CSS, JAVASCRIPT
+- 🚀 Conhecimentos: HTML, CSS, JAVASCRIPT
 
 - 📫 Se você deseja enviar uma mensagem.  **evander.20112@hotmail.com**
 
@@ -32,12 +32,12 @@
   
 <br>
 
-## 📱 &nbsp;Redes Sociais
+## 🔗 &nbsp;Redes Sociais
 
 <p align="left">
  
  <a href="https://www.linkedin.com/in/evander-inacio" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-000dff?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/evander-inacio"/> 
+  <img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/evander-inacio"/> 
  </a>
  
  <a href="https://www.facebook.com/evandder.lopes" alt="Facebook">
@@ -45,7 +45,7 @@
  </a>
  
  <a href="https://twitter.com/Evander_Inacio" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-000dff?style=for-the-badge&logo=Twitter&logoColor=FFFFFF&link=https://twitter.com/Evander_Inacio"/> 
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=FFFFFF&link=https://twitter.com/Evander_Inacio"/> 
  </a>
 
  </p>
