@@ -17,7 +17,7 @@
 
 <br>
 
-## 🛠 &nbsp;Technologies
+## 🛠 &nbsp;Tech Stack
 
 <p align="left">
  
@@ -63,13 +63,3 @@
 
 ## <img src="images/gato.gif" width="50" align="center"> &nbsp;My Commits
 ![Snake animation](https://github.com/EvanderInacio/EvanderInacio/blob/output/github-contribution-grid-snake.svg)
-
-<br>
-
-🚀 let's rock the future!
-
------
-
-  <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/evander-inacio/">Evander Inácio</a> ☕</h3>
-
-
