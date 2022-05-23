@@ -13,7 +13,7 @@
  
 - 👨‍🎓 I'm graduated in Systems Analysis and Development.
 
-- 👨‍💻  I’m always studying HTML, CSS, JavaScript
+- 👨‍💻  I’m always studying **HTML, CSS, JavaScript**
 
 - 📫 If you want to send a message.  **evander.20112@hotmail.com**
 
