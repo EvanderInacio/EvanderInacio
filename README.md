@@ -11,7 +11,7 @@
  
 - 🚀 How to reach me **[ evanderinacio.com](https://www.evanderinacio.com)**
  
-- 👨‍🎓 I'm graduated in Systems Analysis and Development.
+- 👨‍🎓 I'm graduated in **Systems Analysis and Development.**
 
 - 👨‍💻  I’m always studying **HTML, CSS, JavaScript**
 
