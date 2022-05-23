@@ -9,9 +9,11 @@
 
  ## &nbsp; <img src="images/oculos.gif " width="30" align="center"> &nbsp;About me
  
-- 👨‍💻 My portfolio **[ evanderinacio.com](https://www.evanderinacio.com)**
+- 🚀 How to reach me **[ evanderinacio.com](https://www.evanderinacio.com)**
  
 - 👨‍🎓 I'm graduated in Systems Analysis and Development.
+
+- 👨‍💻  I’m always studying HTML, CSS, JavaScript
 
 - 📫 If you want to send a message.  **evander.20112@hotmail.com**
 
