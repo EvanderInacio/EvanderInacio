@@ -61,14 +61,14 @@
 
 ## <img src="images/gato_astronauta.gif" width="50" height="50" align="10">  &nbsp;GitHub Analytics
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=EvanderInacio&show_icons=true=anuraghazra&show_icons=true&theme=algolia" alt="evander stats"/> <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanderInacio&layout=compact&theme=algolia" alt="evander stats"/>
+<img height='200em' src="https://github-readme-stats.vercel.app/api?username=EvanderInacio&show_icons=true=anuraghazra&show_icons=true&theme=algolia" alt="evander stats"/><img height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanderInacio&layout=compact&theme=algolia" alt="evander stats"/>
   
 <br>
 
 ## <img src="images/gato.gif" width="50" align="center"> &nbsp;My Commits
 ![Snake animation](https://github.com/EvanderInacio/EvanderInacio/blob/output/github-contribution-grid-snake.svg)
 
-<br>
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=EvanderInacio&hide_border=true&theme=react-dark)
 
 ----
 
