@@ -61,7 +61,10 @@
 
 ## <img src="images/gato_astronauta.gif" width="50" height="50" align="10">  &nbsp;GitHub Analytics
 
-<img height='200em' src="https://github-readme-stats.vercel.app/api?username=EvanderInacio&show_icons=true=anuraghazra&show_icons=true&theme=algolia" alt="evander stats"/><img height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanderInacio&layout=compact&theme=algolia" alt="evander stats"/>
+<div align="center">
+<img height='180em' src="https://github-readme-stats.vercel.app/api?username=EvanderInacio&show_icons=true=anuraghazra&show_icons=true&theme=algolia" alt="evander stats"/>
+<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanderInacio&layout=compact&theme=algolia" alt="evander stats"/>
+ </div>
   
 <br>
 
