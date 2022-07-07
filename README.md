@@ -11,13 +11,13 @@
  
 - 🚀 My portfolio **[ evanderinacio.com](https://www.evanderinacio.com)**
 
-- 🔗 My Bio Links **[evander-bio](https://evander-bio.vercel.app/)**
+- 🔗 My Bio **[evander-bio](https://evander-bio.vercel.app/)**
  
 - 👨‍🎓 I'm graduated in **Systems Analysis and Development.**
 
 - 👨‍💻  I’m always studying `JavaScript`
 
-- 👀 I’m interested in `ReactJS`
+- 👀 I’m interested in `TypeScript` | `ReactJS`
 
 - 📫 If you want to send a message.  **evander.20112@hotmail.com**
 
