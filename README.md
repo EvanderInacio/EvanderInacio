@@ -9,7 +9,9 @@
 
  ## &nbsp; <img src="images/oculos.gif " width="30" align="center"> &nbsp;About me
  
-- 🚀 How to reach me **[ evanderinacio.com](https://www.evanderinacio.com)**
+- 🚀 My portfolio **[ evanderinacio.com](https://www.evanderinacio.com)**
+
+- 🔗 My Bio Links **[evander-bio](https://evander-bio.vercel.app/)**
  
 - 👨‍🎓 I'm graduated in **Systems Analysis and Development.**
 
