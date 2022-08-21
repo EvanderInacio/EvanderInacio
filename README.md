@@ -3,7 +3,7 @@
 <h1 align="left">Hi, <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30"> I'm Evander Inácio
  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EvanderInacio&color=7700ff" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EvanderInacio&color=000030" alt="Profile views" /> </p>
 
 <br>
 
