@@ -33,6 +33,12 @@
  
  <img src="https://img.shields.io/badge/JavaScript-rgb(25, 27, 30)?style=for-the-badge&logo=javascript&logoColor=rgb(150, 118, 228)" alt="javascript"/> 
  
+ <img src="https://img.shields.io/badge/typeScript-rgb(25,%2027,%2030)?style=for-the-badge&logo=typescript&logoColor=rgb(150,%20118,%20228)" alt="typescript"/>
+ 
+ <img src="https://img.shields.io/badge/reactJs-rgb(25,%2027,%2030)?style=for-the-badge&logo=react&logoColor=rgb(150,%20118,%20228)" alt="reactJs"/>
+ 
+ <img src="https://img.shields.io/badge/tailwindCss-rgb(25,%2027,%2030)?style=for-the-badge&logo=tailwindcss&logoColor=rgb(150,%20118,%20228)" alt="tailwindcss"/>
+ 
 </p>
   
 <br>
