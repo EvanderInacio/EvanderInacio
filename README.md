@@ -37,8 +37,6 @@
  
  <img src="https://img.shields.io/badge/reactJs-rgb(25,%2027,%2030)?style=for-the-badge&logo=react&logoColor=rgb(150,%20118,%20228)" alt="reactJs"/>
  
- <img src="https://img.shields.io/badge/tailwindCss-rgb(25,%2027,%2030)?style=for-the-badge&logo=tailwindcss&logoColor=rgb(150,%20118,%20228)" alt="tailwindcss"/>
- 
 </p>
   
 <br>
