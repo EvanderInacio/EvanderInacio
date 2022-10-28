@@ -9,7 +9,7 @@
 
  ## &nbsp; <img src="images/oculos.gif " width="30" align="center"> &nbsp;About me
  
-- 🚀 My portfolio **[ evanderinacio.com](https://www.evanderinacio.com)**
+- 🚀 My portfolio **[ evander.vercel.app](https://evander.vercel.app/)**
 
 - 🔗 My Bio **[evander-bio](https://evander-bio.vercel.app/)**
  
