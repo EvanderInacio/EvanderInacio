@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/-Twitter-rgb(25, 27, 30)?style=for-the-badge&logo=Twitter&logoColor=rgb(150, 118, 228)&link=https://twitter.com/Evander_Inacio"/> 
  </a>
  
- <a href="https://www.evanderinacio.com/" alt="Portfolio">
+ <a href="https://evander.vercel.app/" alt="Portfolio">
   <img src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(150, 118, 228)&link=https://www.evanderinacio.com/"/>
  </a>
 
