@@ -9,15 +9,11 @@
 
  ## &nbsp; <img src="images/oculos.gif " width="30" align="center"> &nbsp;About me
  
-- 🚀 My portfolio **[ evander.vercel.app](https://evander.vercel.app/)**
-
-- 🔗 My Bio **[evander-bio](https://evander-bio.vercel.app/)**
+- 🚀 My portfolio **[ evander.vercel.app](https://evander.vercel.app/)**;
  
-- 👨‍🎓 I'm graduated in **Systems Analysis and Development.**
+- 👨‍🎓 I'm graduated in **Systems Analysis and Development.**;
 
-- 👨‍💻  I’m always studying `JavaScript`
-
-- 👀 I’m interested in `TypeScript` | `ReactJS`
+- 💬 Ask me about ReactJS;
 
 - 📫 If you want to send a message.  **evander.20112@hotmail.com**
 
