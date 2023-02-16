@@ -26,7 +26,7 @@
     <a href='https://html.com/'>
       <img src="https://skillicons.dev/icons?i=html"/>
     </a>
-    <a href='https://www.w3.org/Style/CSS/Overview.en.html'>
+    <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
       <img src="https://skillicons.dev/icons?i=css"/>
     </a>
     <a href='https://www.javascript.com/'>
@@ -70,19 +70,19 @@
 <p align="left">
  
  <a href="https://www.linkedin.com/in/evander-inacio" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(150, 118, 228)&link=https://www.linkedin.com/in/evander-inacio"/> 
+  <img width="155px" src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(150, 118, 228)&link=https://www.linkedin.com/in/evander-inacio"/> 
  </a>
  
  <a href="https://www.facebook.com/evandder.lopes" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-rgb(25, 27, 30)?style=for-the-badge&logo=Facebook&logoColor=rgb(150, 118, 228)&link=https://www.facebook.com/evandder.lopes"/> 
+  <img width="155px" src="https://img.shields.io/badge/-Facebook-rgb(25, 27, 30)?style=for-the-badge&logo=Facebook&logoColor=rgb(150, 118, 228)&link=https://www.facebook.com/evandder.lopes"/> 
  </a>
  
  <a href="https://twitter.com/Evander_Inacio" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-rgb(25, 27, 30)?style=for-the-badge&logo=Twitter&logoColor=rgb(150, 118, 228)&link=https://twitter.com/Evander_Inacio"/> 
+  <img width="140px" src="https://img.shields.io/badge/-Twitter-rgb(25, 27, 30)?style=for-the-badge&logo=Twitter&logoColor=rgb(150, 118, 228)&link=https://twitter.com/Evander_Inacio"/> 
  </a>
  
  <a href="https://evander.vercel.app/" alt="Portfolio">
-  <img src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(150, 118, 228)&link=https://www.evanderinacio.com/"/>
+  <img width="197px" src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(150, 118, 228)&link=https://www.evanderinacio.com/"/>
  </a>
 
  </p>
