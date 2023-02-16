@@ -3,7 +3,7 @@
 <h1 align="left">Hi, <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30"> I'm Evander Inácio
  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EvanderInacio&color=191b1e" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EvanderInacio&color=8B67DB" alt="Profile views" /> </p>
 
 <br>
 
@@ -101,15 +101,5 @@
 ## <img src="images/gato.gif" width="50" align="center"> &nbsp;My Commits
 ![Snake animation](https://github.com/EvanderInacio/EvanderInacio/blob/output/github-contribution-grid-snake.svg)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=EvanderInacio&hide_border=true&theme=react-dark)
-
 ----
-
-<p align="center">
-   
-  <a href="https://github.com/EvanderInacio?tab=repositories&sort=stargazers">
-   <img alt="stars" title="Total stars on GitHub" 
-   src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000030&labelColor=000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/EvanderInacio"/></a>
-  <a href="https://github.com/EvanderInacio?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/EvanderInacio?color=000030&labelColor=000&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B67DB&width=435&lines=Evander+Inácio)](https://github.com/EvanderInacio)
