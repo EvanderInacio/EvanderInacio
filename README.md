@@ -21,19 +21,47 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-<p align="left">
- 
- <img src="https://img.shields.io/badge/-HTML5-rgb(25, 27, 30)?style=for-the-badge&logo=html5&logoColor=rgb(150, 118, 228)" alt="html5"/> 
- 
- <img src="https://img.shields.io/badge/CSS3-rgb(25, 27, 30)?style=for-the-badge&logo=css3&logoColor=rgb(150, 118, 228)" alt="css3"/>
- 
- <img src="https://img.shields.io/badge/JavaScript-rgb(25, 27, 30)?style=for-the-badge&logo=javascript&logoColor=rgb(150, 118, 228)" alt="javascript"/> 
- 
- <img src="https://img.shields.io/badge/typeScript-rgb(25,%2027,%2030)?style=for-the-badge&logo=typescript&logoColor=rgb(150,%20118,%20228)" alt="typescript"/>
- 
- <img src="https://img.shields.io/badge/reactJs-rgb(25,%2027,%2030)?style=for-the-badge&logo=react&logoColor=rgb(150,%20118,%20228)" alt="reactJs"/>
- 
-</p>
+<div align="left">
+ <p>
+    <a href='https://html.com/'>
+      <img src="https://skillicons.dev/icons?i=html"/>
+    </a>
+    <a href='https://www.w3.org/Style/CSS/Overview.en.html'>
+      <img src="https://skillicons.dev/icons?i=css"/>
+    </a>
+    <a href='https://www.javascript.com/'>
+      <img src="https://skillicons.dev/icons?i=js"/>
+    </a>
+    <a href='https://www.typescriptlang.org/'>
+      <img src="https://skillicons.dev/icons?i=ts"/>
+    </a>
+    <a href='https://reactjs.org/'>
+      <img src="https://skillicons.dev/icons?i=react"/>
+    </a>
+    <a href='https://nextjs.org/'>
+      <img src="https://skillicons.dev/icons?i=nextjs"/>
+    </a>
+    <a href='https://nodejs.org/en/'>
+      <img src="https://skillicons.dev/icons?i=nodejs"/>
+    </a>
+    <a href='https://git-scm.com/'>
+     <img src="https://skillicons.dev/icons?i=git"/>
+    </a>
+    <a href='https://styled-components.com/'>
+      <img src="https://skillicons.dev/icons?i=styledcomponents"/>
+    </a>
+    <a href='https://tailwindui.com/'>
+     <img src="https://skillicons.dev/icons?i=tailwind"/>
+    </a>
+    <a href='https://sass-lang.com/'>
+     <img src="https://skillicons.dev/icons?i=sass"/>
+    </a>
+    <a href='https://www.figma.com/'>
+     <img src="https://skillicons.dev/icons?i=figma"/>
+    </a>
+ </p>
+
+</div>
   
 <br>
 
