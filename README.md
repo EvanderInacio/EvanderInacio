@@ -3,7 +3,7 @@
 <h1 align="left">Hi, <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30"> I'm Evander Inácio
  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EvanderInacio&color=8B67DB" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EvanderInacio&color=0e14c2" alt="Profile views" /> </p>
 
 <br>
 
@@ -102,4 +102,6 @@
 ![Snake animation](https://github.com/EvanderInacio/EvanderInacio/blob/output/github-contribution-grid-snake.svg)
 
 ----
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B67DB&width=435&lines=Evander+Inácio)](https://github.com/EvanderInacio)
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B67DB&width=435&lines=Evander+Inácio+2023)](https://github.com/EvanderInacio)
+
