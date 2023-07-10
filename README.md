@@ -8,14 +8,15 @@
 <br>
 
  ## &nbsp; <img src="images/oculos.gif " width="30" align="center"> &nbsp;About me
- 
+
+- 💻 I'm Front-End Developer;
+
 - 🚀 My portfolio **[ evander.com.br](https://www.evander.com.br/)**;
  
 - 👨‍🎓 I'm graduated in **Systems Analysis and Development.**;
 
-- 💬 Ask me about ReactJS;
-
 - 📫 If you want to send a message.  **evander.20116@gmail.com**
+
 
 <br>
 
