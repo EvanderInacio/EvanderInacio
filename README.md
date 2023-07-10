@@ -15,7 +15,7 @@
 
 - 💬 Ask me about ReactJS;
 
-- 📫 If you want to send a message.  **evander.20112@hotmail.com**
+- 📫 If you want to send a message.  **evander.20116@gmail.com**
 
 <br>
 
@@ -75,17 +75,13 @@
  <a href="https://www.linkedin.com/in/evander-inacio" alt="Linkedin">
   <img width="140px" src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(150, 118, 228)&link=https://www.linkedin.com/in/evander-inacio"/> 
  </a>
- 
- <a href="https://www.facebook.com/evandder.lopes" alt="Facebook">
-  <img width="140px" src="https://img.shields.io/badge/-Facebook-rgb(25, 27, 30)?style=for-the-badge&logo=Facebook&logoColor=rgb(150, 118, 228)&link=https://www.facebook.com/evandder.lopes"/> 
- </a>
- 
- <a href="https://twitter.com/Evander_Inacio" alt="Twitter">
-  <img width="128px" src="https://img.shields.io/badge/-Twitter-rgb(25, 27, 30)?style=for-the-badge&logo=Twitter&logoColor=rgb(150, 118, 228)&link=https://twitter.com/Evander_Inacio"/> 
+
+ <a href="mailto:evander.20116@gmail.com" alt="Gmail">
+  <img width="113px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=Gmail&logoColor=rgb(150, 118, 228)&link=mailto:evander.20116@gmail.com"/> 
  </a>
  
  <a href="https://www.evander.com.br/" alt="Portfolio">
-  <img width="178px" src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(150, 118, 228)&link=https://www.evanderinacio.com/"/>
+  <img width="192px" src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(150, 118, 228)&link=https://www.evander.com.br/"/>
  </a>
 
  </p>
@@ -103,8 +99,3 @@
 
 ## <img src="images/gato.gif" width="50" align="center"> &nbsp;My Commits
 ![Snake animation](https://github.com/EvanderInacio/EvanderInacio/blob/output/github-contribution-grid-snake.svg)
-
-----
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B67DB&width=435&lines=Evander+Inácio+2023)](https://github.com/EvanderInacio)
-
