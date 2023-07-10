@@ -9,7 +9,7 @@
 
  ## &nbsp; <img src="images/oculos.gif " width="30" align="center"> &nbsp;About me
  
-- 🚀 My portfolio **[ evander.vercel.app](https://evander.vercel.app/)**;
+- 🚀 My portfolio **[ evander.com.br](https://www.evander.com.br/)**;
  
 - 👨‍🎓 I'm graduated in **Systems Analysis and Development.**;
 
@@ -56,6 +56,9 @@
     <a href='https://sass-lang.com/'>
      <img src="https://skillicons.dev/icons?i=sass"/>
     </a>
+     <a href='https://mui.com/'>
+     <img src="https://skillicons.dev/icons?i=materialui"/>
+    </a>
     <a href='https://www.figma.com/'>
      <img src="https://skillicons.dev/icons?i=figma"/>
     </a>
@@ -81,7 +84,7 @@
   <img width="128px" src="https://img.shields.io/badge/-Twitter-rgb(25, 27, 30)?style=for-the-badge&logo=Twitter&logoColor=rgb(150, 118, 228)&link=https://twitter.com/Evander_Inacio"/> 
  </a>
  
- <a href="https://evander.vercel.app/" alt="Portfolio">
+ <a href="https://www.evander.com.br/" alt="Portfolio">
   <img width="178px" src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(150, 118, 228)&link=https://www.evanderinacio.com/"/>
  </a>
 
