@@ -20,7 +20,7 @@
 
 <br>
 
-## 🛠 &nbsp;Tech Stack
+## <img src="images/gato.gif" width="50" align="center"> &nbsp;Tech Stack
 
 <div align="left">
  <p>
@@ -95,8 +95,4 @@
 <img height='180em' src="https://github-readme-stats.vercel.app/api?username=EvanderInacio&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="evander stats"/>
 <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanderInacio&layout=compact&theme=aura" alt="evander stats"/>
  </div>
-  
-<br>
-
-## <img src="images/gato.gif" width="50" align="center"> &nbsp;My Commits
-![Snake animation](https://github.com/EvanderInacio/EvanderInacio/blob/output/github-contribution-grid-snake.svg)
+ 
